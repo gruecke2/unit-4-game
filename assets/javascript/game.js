@@ -27,7 +27,7 @@ $(document).ready(function() {
   var gem4 = new Crystal();
 
   //Images to set for our crystals
-  var imgArray = ["blueGem.PNG", "darkBlueGem.PNG", "greenGem.png", "lavenderGem.PNG", 
+  var imgArray = ["blueGem.PNG", "darkBlueGem.PNG", "greenGem.PNG", "lavenderGem.PNG", 
   "orangeGem.PNG", "purpleGem.PNG", "redGem.PNG", "sqGreenGem.PNG"];
 
   var gameOver = false;
